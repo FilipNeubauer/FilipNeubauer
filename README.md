@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Filip Neubauer</h1>
 <h3 align="center">I am a high school student in the Czech Republic and I am passionate about programming.</h3>
 
-- 🔭 I’m currently working on [Analysis of stocks using Bayesian Network](https://github.com/FilipNeubauer/Stock_Analysis_BN)
+- 🔭 I’m currently working on [Analysis of stocks using Bayesian Network](https://github.com/FilipNeubauer/Stock_Analysis_BN), [PHP blog with admin](https://github.com/FilipNeubauer/Blog_PHP)
 
 - 🌱 I’m currently learning **WordPress and PHP**
 
