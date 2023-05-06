@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Analysis of stocks using Bayesian Network](https://github.com/FilipNeubauer/Stock_Analysis_BN), [PHP blog with admin](https://github.com/FilipNeubauer/Blog_PHP)
 
-- 🌱 I’m currently learning **WordPress and PHP**
+- 🌱 I’m currently learning **C**
 
 - 📫 How to reach me **filipneub@seznam.cz**
 
