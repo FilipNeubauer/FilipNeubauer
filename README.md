@@ -13,6 +13,7 @@
 <p align="left">
 <a href="https://instagram.com/f_neubauer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="f_neubauer" height="30" width="40" /></a>
 <a href="https://discord.gg/filipneubauer#1872" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="filipneubauer#1872" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/filip-neubauer-696555272/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin" alt="linkedin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
