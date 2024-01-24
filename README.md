@@ -5,8 +5,6 @@
 
 - 🔭 Personal project [Analysis of stocks using Bayesian Network](https://github.com/FilipNeubauer/Stock_Analysis_BN)
 
-- 🌱 I’m currently learning **Spring Boot**
-
 - 📫 How to reach me **filipneub@seznam.cz**
 
 <h3 align="left">Connect with me:</h3>
