@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Filip Neubauer</h1>
 <h3 align="center">Fullstack developer & Data analyst</h3>
 
-- 📊 I work at **FZU as a data analyst**
-
 - 👨‍💻 I work at **veevoy as a fullstack developer**
-
-- 🌱 I’m currently learning **C#, ASP.NET**
 
 - 📫 How to reach me **filipneub@seznam.cz**
 
