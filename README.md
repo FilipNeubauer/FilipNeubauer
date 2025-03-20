@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Filip Neubauer</h1>
 <h3 align="center">Fullstack developer</h3>
 
-- 👨‍💻 I work at **veevoy as a fullstack developer**
-
 - 📫 How to reach me **filipneub@seznam.cz**
 
 <h3 align="left">Connect with me:</h3>
