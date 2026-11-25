@@ -1,6 +1,6 @@
 <h1>Hi, I'm Filip 👋</h1>
 
-**Fullstack developer from Prague** – backend, web, mobile and TV, mostly in TypeScript.
+**Fullstack developer from Prague** – TypeScript across backend, web, mobile and TV.
 
 - 💼 Fullstack Developer at **veevoy** – web & mobile apps and telemedicine platforms
 - 📺 Previously contractor for **FX Digital** – TV & mobile apps for streaming clients
