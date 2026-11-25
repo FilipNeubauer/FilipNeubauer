@@ -2,7 +2,7 @@
 
 **Fullstack developer from Prague** – TypeScript across backend, web and mobile.
 
-- 💼 Fullstack Developer at **veevoy** – web & mobile apps, telemedicine platforms (FHIR, Kubernetes)
+- 💼 Fullstack Developer at **veevoy** – web & mobile apps and telemedicine platforms
 - 📺 Previously contractor for **FX Digital** – TV & mobile apps for streaming clients (tvOS, Fire TV, React Native)
 - 🚀 Co-founder of **[Sportelo](https://sportelo.cz)** – booking system for sports centres
 - 🎓 Studying Software Development at Unicorn University
