@@ -4,7 +4,7 @@
 
 - 💼 Fullstack Developer at **veevoy** – web & mobile apps and telemedicine platforms
 - 📺 Previously contractor for **FX Digital** – TV & mobile apps for streaming clients (tvOS, Fire TV, React Native)
-- 🚀 Co-founder of **[Sportelo](https://sportelo.cz)** – booking system for sports centres
+- 🚀 Co-founder of **[Sportelo](https://sportelo.cz)** – booking system for sports centres and a community app for players with leagues and rankings
 - 🎓 Studying Software Development at Unicorn University
 - 🤖 AI-driven development – custom Claude Code skills & rules, focus on architecture and review
 
